@@ -5,6 +5,7 @@ Checking some life-stats every day for a month
 
 <details>
 <summary>March 24 - April 22</summary>
+
 # March 24 - April 22 
 | Date        | Go-to-sleep Time | Wake-up Time | Water (L) | Workout (min) | Study (hrs) | Screen Time (hrs) | Reading (min) |
 | ----------- | ---------------- | ------------ | --------- | ------------- | ----------- | ----------------- | ------------- |
@@ -39,4 +40,5 @@ Checking some life-stats every day for a month
 | 21/04/2025  |  |  |  |  |  |  |  |
 | 22/04/2025  |  |  |  |  |  |  |  |
 | **Average** |  |  |  |  |  |  |  |
+
 </details>
