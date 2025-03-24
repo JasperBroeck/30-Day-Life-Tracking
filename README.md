@@ -3,22 +3,9 @@ Checking some life-stats every day for a month
 
 <details>
 
-<summary># Tips for collapsed sections</summary>
+<summary>March 24 - April 22</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-
-# March 24 - April 22 (30 Days)
+# March 24 - April 22 
 | Date        | Go-to-sleep Time | Wake-up Time | Water (L) | Workout (min) | Study (hrs) | Screen Time (hrs) | Reading (min) |
 | ----------- | ---------------- | ------------ | --------- | ------------- | ----------- | ----------------- | ------------- |
 | 24/03/2025  | 00:29            | 06:20        | 750ml+... |               |             |                   |               |
@@ -52,3 +39,5 @@ You can add an image or a code block, too.
 | 21/04/2025  |  |  |  |  |  |  |  |
 | 22/04/2025  |  |  |  |  |  |  |  |
 | **Average** |  |  |  |  |  |  |  |
+
+</details>
