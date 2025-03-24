@@ -1,6 +1,23 @@
 # 30-Day-Life-Tracking
 Checking some life-stats every day for a month
 
+<details>
+
+<summary># Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
 # March 24 - April 22 (30 Days)
 | Date        | Go-to-sleep Time | Wake-up Time | Water (L) | Workout (min) | Study (hrs) | Screen Time (hrs) | Reading (min) |
 | ----------- | ---------------- | ------------ | --------- | ------------- | ----------- | ----------------- | ------------- |
